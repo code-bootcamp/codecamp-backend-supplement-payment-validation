@@ -33,6 +33,7 @@ type User {
   email: String!
   name: String!
   age: Int!
+  point: Int!
 }
 
 type Product {
